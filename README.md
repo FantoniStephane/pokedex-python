@@ -92,7 +92,7 @@ pokedex-python/
 
 ## 🎓 Contexte
 
-Projet réalisé dans le cadre de la formation **CD2IA** à la Metz Numeric School.  
+Projet réalisé dans le cadre de ma formation **CD2IA** à la Metz Numeric School.  
 Notions mobilisées : requêtes HTTP, JSON, fonctions, boucles, gestion d'erreurs.
 
 ---
